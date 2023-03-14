@@ -1,2 +1,2 @@
-# e-commerce
-my first project e-commerce
+# E-commerce
+## my first project e-commerce
